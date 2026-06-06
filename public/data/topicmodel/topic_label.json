@@ -1,0 +1,1021 @@
+{
+  "labels": {
+    "0": {
+      "topic_id": 0,
+      "status": "labeled",
+      "prompt_tokens": 54197,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "기도와 금식을 통한 하나님의 섭리와 구원",
+        "description": "에스더서를 중심으로 한 설교에서 위기 상황에서의 기도와 금식의 중요성, 하나님의 신묘막측한 역사, 악인의 몰락과 하나님의 구원 계획을 강조하는 주제",
+        "evidence_keywords": [
+          "기도",
+          "금식",
+          "하나님",
+          "에스더",
+          "모르드개",
+          "하만",
+          "유대인",
+          "구원",
+          "섭리",
+          "신묘막측",
+          "회개",
+          "믿음",
+          "생명",
+          "위기",
+          "민족",
+          "왕후",
+          "조서",
+          "금홀",
+          "사형틀",
+          "하나님의 역사",
+          "하나님의 능력"
+        ],
+        "representative_phrases": [
+          "나와 내 민족이 팔려서 죽임과 도륙함과 진멸함을 당하게 되었나이다",
+          "내가 만일 왕의 목전에서 은혜를 입었으며 왕이 좋게 여기시면 내 소청대로 내 생명을 내게 주시고 내 요구대로 내 민족을 내게 주소서",
+          "기도하면 하나님이 일하신다",
+          "하나님은 신묘막측하시다",
+          "기도는 내가 유한함을 인정하는 태도",
+          "기도는 하나님 신뢰의 표현",
+          "기도는 하나님으로 하여금 일하시도록 하는 것",
+          "기도는 하나님과의 대화",
+          "기도는 하나님과의 관계"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 47157,
+        "completion_tokens": 273,
+        "total_tokens": 47430,
+        "prompt_tokens_details": {
+          "cached_tokens": 64,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"기도와 금식을 통한 하나님의 섭리와 구원\", \"description\": \"에스더서를 중심으로 한 설교에서 위기 상황에서의 기도와 금식의 중요성, 하나님의 신묘막측한 역사, 악인의 몰락과 하나님의 구원 계획을 강조하는 주제\", \"evidence_keywords\": [\"기도\", \"금식\", \"하나님\", \"에스더\", \"모르드개\", \"하만\", \"유대인\", \"구원\", \"섭리\", \"신묘막측\", \"회개\", \"믿음\", \"생명\", \"위기\", \"민족\", \"왕후\", \"조서\", \"금홀\", \"사형틀\", \"하나님의 역사\", \"하나님의 능력\"], \"representative_phrases\": [\"나와 내 민족이 팔려서 죽임과 도륙함과 진멸함을 당하게 되었나이다\", \"내가 만일 왕의 목전에서 은혜를 입었으며 왕이 좋게 여기시면 내 소청대로 내 생명을 내게 주시고 내 요구대로 내 민족을 내게 주소서\", \"기도하면 하나님이 일하신다\", \"하나님은 신묘막측하시다\", \"기도는 내가 유한함을 인정하는 태도\", \"기도는 하나님 신뢰의 표현\", \"기도는 하나님으로 하여금 일하시도록 하는 것\", \"기도는 하나님과의 대화\", \"기도는 하나님과의 관계\"], \"confidence\": 0.95}"
+    },
+    "1": {
+      "topic_id": 1,
+      "status": "labeled",
+      "prompt_tokens": 58775,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "하나님의 신실하신 사랑과 주권적 은혜",
+        "description": "하나님의 약속은 변함이 없으며, 인간의 회개와 믿음을 통해 그분의 뜻을 돌이키실 수 있는 은혜로운 주권을 보여줍니다. 다니엘과 요나의 이야기를 통해 하나님의 자비하심과 역사하심이 어떻게 인간의 예상을 뛰어넘어 실현되는지 강조합니다.",
+        "evidence_keywords": [
+          "하나님의 신실하심",
+          "뜻을 돌이키시다",
+          "은혜",
+          "회개",
+          "약속",
+          "주권",
+          "자비",
+          "구원",
+          "역전",
+          "역사의 주관자"
+        ],
+        "representative_phrases": [
+          "하나님은 뜻이 변함이 없으시다",
+          "하나님의 은혜는 우리의 이해를 넘어선다",
+          "하나님의 자비하심은 니느웨를 구원하셨다",
+          "하나님의 주권은 인간의 회개로 돌이키실 수 있다",
+          "하나님의 사랑은 우리의 예상을 뛰어넘는다"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 48055,
+        "completion_tokens": 190,
+        "total_tokens": 48245,
+        "prompt_tokens_details": {
+          "cached_tokens": 64,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"하나님의 신실하신 사랑과 주권적 은혜\", \"description\": \"하나님의 약속은 변함이 없으며, 인간의 회개와 믿음을 통해 그분의 뜻을 돌이키실 수 있는 은혜로운 주권을 보여줍니다. 다니엘과 요나의 이야기를 통해 하나님의 자비하심과 역사하심이 어떻게 인간의 예상을 뛰어넘어 실현되는지 강조합니다.\", \"evidence_keywords\": [\"하나님의 신실하심\", \"뜻을 돌이키시다\", \"은혜\", \"회개\", \"약속\", \"주권\", \"자비\", \"구원\", \"역전\", \"역사의 주관자\"], \"representative_phrases\": [\"하나님은 뜻이 변함이 없으시다\", \"하나님의 은혜는 우리의 이해를 넘어선다\", \"하나님의 자비하심은 니느웨를 구원하셨다\", \"하나님의 주권은 인간의 회개로 돌이키실 수 있다\", \"하나님의 사랑은 우리의 예상을 뛰어넘는다\"], \"confidence\": 0.95}"
+    },
+    "2": {
+      "topic_id": 2,
+      "status": "labeled",
+      "prompt_tokens": 51487,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "하나님의 섭리와 헤세드",
+        "description": "룻기 설교에서 하나님의 보이지 않는 섭리와 헤세드(사랑과 헌신)가 어떻게 절망적인 상황에서 소망을 일으키며, 이방인 룻과 나오미를 통해 메시아의 족보를 이어가는지를 보여주는 주제",
+        "evidence_keywords": [
+          "보아스의 밭",
+          "우연히",
+          "마침",
+          "하나님의 섭리",
+          "헤세드",
+          "룻의 헌신",
+          "나오미의 마라",
+          "기업 무를 자",
+          "다윗의 가문",
+          "오벳",
+          "하나님의 날개"
+        ],
+        "representative_phrases": [
+          "하나님은 모압 사람이라고 다 지옥 가기 바라시는 게 아니에요",
+          "하나님은 약한 자의 하나님이세요",
+          "하나님의 섭리는 보이지 않는 하나님의 손이 드러나죠",
+          "헤세드의 사람에게 하나님 헤세드를 베푸세요",
+          "하나님의 섭리가 룻의 인생을 완전히 뒤집는 순간",
+          "하나님의 섭리가 마침내 오벳이 태어나며 이루어졌던 것처럼"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 43326,
+        "completion_tokens": 234,
+        "total_tokens": 43560,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\n  \"label\": \"하나님의 섭리와 헤세드\",\n  \"description\": \"룻기 설교에서 하나님의 보이지 않는 섭리와 헤세드(사랑과 헌신)가 어떻게 절망적인 상황에서 소망을 일으키며, 이방인 룻과 나오미를 통해 메시아의 족보를 이어가는지를 보여주는 주제\",\n  \"evidence_keywords\": [\n    \"보아스의 밭\", \"우연히\", \"마침\", \"하나님의 섭리\", \"헤세드\", \"룻의 헌신\", \"나오미의 마라\", \"기업 무를 자\", \"다윗의 가문\", \"오벳\", \"하나님의 날개\"\n  ],\n  \"representative_phrases\": [\n    \"하나님은 모압 사람이라고 다 지옥 가기 바라시는 게 아니에요\",\n    \"하나님은 약한 자의 하나님이세요\",\n    \"하나님의 섭리는 보이지 않는 하나님의 손이 드러나죠\",\n    \"헤세드의 사람에게 하나님 헤세드를 베푸세요\",\n    \"하나님의 섭리가 룻의 인생을 완전히 뒤집는 순간\",\n    \"하나님의 섭리가 마침내 오벳이 태어나며 이루어졌던 것처럼\"\n  ],\n  \"confidence\": 0.95\n}"
+    },
+    "3": {
+      "topic_id": 3,
+      "status": "labeled",
+      "prompt_tokens": 57686,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "부부 관계와 가정 신앙",
+        "description": "설교들은 부부 간의 사랑과 복종, 부모-자녀 관계, 가정 내 신앙 실천, 그리고 현대 사회의 결혼 및 가족 문제에 대한 신학적 접근을 다루고 있습니다. 특히 에베소서 5:22-33을 중심으로 한 부부 관계의 성경적 원리와 현대 적용, 자녀 양육과 효도, 그리고 인구 감소와 같은 사회적 문제에 대한 기독교적 관점을 제시합니다.",
+        "evidence_keywords": [
+          "사랑",
+          "하나님",
+          "사람",
+          "말씀",
+          "자녀",
+          "예수",
+          "부모",
+          "가정",
+          "교회",
+          "기도",
+          "생각",
+          "마음",
+          "오늘",
+          "아버지",
+          "얘기",
+          "믿음",
+          "세상",
+          "관계",
+          "성경",
+          "은혜",
+          "예배",
+          "주님",
+          "시작",
+          "아들",
+          "아내",
+          "남편",
+          "가운데",
+          "결혼",
+          "목사",
+          "이름",
+          "부부",
+          "가정",
+          "효도",
+          "자녀",
+          "부모",
+          "사랑",
+          "복종",
+          "교회",
+          "신앙",
+          "인구",
+          "결혼",
+          "가정",
+          "부부",
+          "관계",
+          "신앙",
+          "실천"
+        ],
+        "representative_phrases": [
+          "아내들이여 자기 남편에게 복종하기를 주께 하듯 하라",
+          "남편들아 아내 사랑하기를 그리스도께서 교회를 사랑하시고 그 교회를 위하여 자신을 주심 같이 하라",
+          "자녀들아 너희 부모를 주 안에서 순종하라",
+          "부모를 공경하라 이것이 약속 있는 첫 계명이니",
+          "부부는 서로 사랑하며 하나님의 영광을 위해 살아가야 한다",
+          "가정에서 신앙을 실천하고 다음 세대에 전수하는 것이 중요하다",
+          "현대 사회의 결혼과 가족 문제에 대한 기독교적 관점",
+          "부부 관계와 가정 신앙의 균형 잡힌 실천"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 49829,
+        "completion_tokens": 367,
+        "total_tokens": 50196,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"부부 관계와 가정 신앙\", \"description\": \"설교들은 부부 간의 사랑과 복종, 부모-자녀 관계, 가정 내 신앙 실천, 그리고 현대 사회의 결혼 및 가족 문제에 대한 신학적 접근을 다루고 있습니다. 특히 에베소서 5:22-33을 중심으로 한 부부 관계의 성경적 원리와 현대 적용, 자녀 양육과 효도, 그리고 인구 감소와 같은 사회적 문제에 대한 기독교적 관점을 제시합니다.\", \"evidence_keywords\": [\"사랑\", \"하나님\", \"사람\", \"말씀\", \"자녀\", \"예수\", \"부모\", \"가정\", \"교회\", \"기도\", \"생각\", \"마음\", \"오늘\", \"아버지\", \"얘기\", \"믿음\", \"세상\", \"관계\", \"성경\", \"은혜\", \"예배\", \"주님\", \"시작\", \"아들\", \"아내\", \"남편\", \"가운데\", \"결혼\", \"목사\", \"이름\", \"부부\", \"가정\", \"효도\", \"자녀\", \"부모\", \"사랑\", \"복종\", \"교회\", \"신앙\", \"인구\", \"결혼\", \"가정\", \"부부\", \"관계\", \"신앙\", \"실천\"], \"representative_phrases\": [\"아내들이여 자기 남편에게 복종하기를 주께 하듯 하라\", \"남편들아 아내 사랑하기를 그리스도께서 교회를 사랑하시고 그 교회를 위하여 자신을 주심 같이 하라\", \"자녀들아 너희 부모를 주 안에서 순종하라\", \"부모를 공경하라 이것이 약속 있는 첫 계명이니\", \"부부는 서로 사랑하며 하나님의 영광을 위해 살아가야 한다\", \"가정에서 신앙을 실천하고 다음 세대에 전수하는 것이 중요하다\", \"현대 사회의 결혼과 가족 문제에 대한 기독교적 관점\", \"부부 관계와 가정 신앙의 균형 잡힌 실천\"], \"confidence\": 0.95}"
+    },
+    "4": {
+      "topic_id": 4,
+      "status": "labeled",
+      "prompt_tokens": 60272,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "하나님의 선하심과 인간의 불신",
+        "description": "하나님의 선하심을 의심하고 사탄의 약속을 믿는 인간의 죄적 본성을 탐구하는 설교. 창세기 3장의 타락 사건을 통해 하나님과의 관계 단절과 영적 독립 선언의 본질을 설명하며, 하나님의 선하심을 온전히 신뢰하는 믿음의 중요성을 강조한다.",
+        "evidence_keywords": [
+          "하나님의 선하심",
+          "사탄의 약속",
+          "영적 독립 선언",
+          "하나님과의 관계 단절",
+          "최상의 것을 공급하시는 하나님",
+          "믿음의 본질",
+          "의존적 신앙",
+          "하나님의 선하심 의심",
+          "하나님처럼 되려는 욕망",
+          "하나님의 선하심 확증",
+          "십자가를 통한 선하심 증명"
+        ],
+        "representative_phrases": [
+          "하나님이 언제나 최상의 것을 공급해 주신다는 것을 의심하는 것",
+          "영적인 독립 선언",
+          "하나님으로부터 독립하여 자기 길을 가는 것",
+          "하나님의 선하심을 믿지 않는 것이 죄",
+          "하나님의 선하심을 확증하신 십자가",
+          "의존을 날마다 선언하는 믿음",
+          "하나님을 믿는 것이 곧 하나님처럼 되는 것"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 48115,
+        "completion_tokens": 241,
+        "total_tokens": 48356,
+        "prompt_tokens_details": {
+          "cached_tokens": 64,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"하나님의 선하심과 인간의 불신\", \"description\": \"하나님의 선하심을 의심하고 사탄의 약속을 믿는 인간의 죄적 본성을 탐구하는 설교. 창세기 3장의 타락 사건을 통해 하나님과의 관계 단절과 영적 독립 선언의 본질을 설명하며, 하나님의 선하심을 온전히 신뢰하는 믿음의 중요성을 강조한다.\", \"evidence_keywords\": [\"하나님의 선하심\", \"사탄의 약속\", \"영적 독립 선언\", \"하나님과의 관계 단절\", \"최상의 것을 공급하시는 하나님\", \"믿음의 본질\", \"의존적 신앙\", \"하나님의 선하심 의심\", \"하나님처럼 되려는 욕망\", \"하나님의 선하심 확증\", \"십자가를 통한 선하심 증명\"], \"representative_phrases\": [\"하나님이 언제나 최상의 것을 공급해 주신다는 것을 의심하는 것\", \"영적인 독립 선언\", \"하나님으로부터 독립하여 자기 길을 가는 것\", \"하나님의 선하심을 믿지 않는 것이 죄\", \"하나님의 선하심을 확증하신 십자가\", \"의존을 날마다 선언하는 믿음\", \"하나님을 믿는 것이 곧 하나님처럼 되는 것\"], \"confidence\": 0.95}"
+    },
+    "5": {
+      "topic_id": 5,
+      "status": "labeled",
+      "prompt_tokens": 49608,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "하나님의 임재와 믿음의 좁은 문",
+        "description": "하나님의 임재를 체험하고 믿음의 좁은 문으로 들어가는 야곱의 영적 여정을 통해 하나님의 주권과 동행하심을 깨닫는 설교",
+        "evidence_keywords": [
+          "하나님",
+          "야곱",
+          "믿음",
+          "좁은 문",
+          "임재",
+          "축복",
+          "이스라엘",
+          "환도뼈",
+          "브니엘",
+          "하나님의 집"
+        ],
+        "representative_phrases": [
+          "하나님이 여기 계시거늘 내가 알지 못하였도다",
+          "이곳이 두려운 곳인가! 하나님의 집이며 하늘의 문이구나",
+          "내가 너와 함께 있을 것이며 네가 어디로 가든지 너를 지키리라",
+          "내가 네게 허락한 것을 다 이루기까지 너를 떠나지 아니하리라",
+          "야곱이 그곳 이름을 브니엘이라 하였으니"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 40233,
+        "completion_tokens": 182,
+        "total_tokens": 40415,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"하나님의 임재와 믿음의 좁은 문\", \"description\": \"하나님의 임재를 체험하고 믿음의 좁은 문으로 들어가는 야곱의 영적 여정을 통해 하나님의 주권과 동행하심을 깨닫는 설교\", \"evidence_keywords\": [\"하나님\", \"야곱\", \"믿음\", \"좁은 문\", \"임재\", \"축복\", \"이스라엘\", \"환도뼈\", \"브니엘\", \"하나님의 집\"], \"representative_phrases\": [\"하나님이 여기 계시거늘 내가 알지 못하였도다\", \"이곳이 두려운 곳인가! 하나님의 집이며 하늘의 문이구나\", \"내가 너와 함께 있을 것이며 네가 어디로 가든지 너를 지키리라\", \"내가 네게 허락한 것을 다 이루기까지 너를 떠나지 아니하리라\", \"야곱이 그곳 이름을 브니엘이라 하였으니\"], \"confidence\": 0.95}"
+    },
+    "6": {
+      "topic_id": 6,
+      "status": "labeled",
+      "prompt_tokens": 48556,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "하나님의 은혜와 회개를 통한 구원",
+        "description": "히스기야의 기도와 회개를 통해 하나님의 살아 계신 능력을 체험하고, 위기 속에서 구원을 구하는 신앙적 주제를 다룹니다.",
+        "evidence_keywords": [
+          "우리를 구원하옵소서",
+          "살아 계신 하나님",
+          "기도",
+          "회개",
+          "말씀",
+          "은혜",
+          "눈물",
+          "통곡",
+          "여호와",
+          "구원"
+        ],
+        "representative_phrases": [
+          "우리를 구원하옵소서",
+          "살아 계신 하나님",
+          "회개하며 여호와의 전",
+          "기도",
+          "말씀 붙잡고"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 40655,
+        "completion_tokens": 134,
+        "total_tokens": 40789,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"하나님의 은혜와 회개를 통한 구원\", \"description\": \"히스기야의 기도와 회개를 통해 하나님의 살아 계신 능력을 체험하고, 위기 속에서 구원을 구하는 신앙적 주제를 다룹니다.\", \"evidence_keywords\": [\"우리를 구원하옵소서\", \"살아 계신 하나님\", \"기도\", \"회개\", \"말씀\", \"은혜\", \"눈물\", \"통곡\", \"여호와\", \"구원\"], \"representative_phrases\": [\"우리를 구원하옵소서\", \"살아 계신 하나님\", \"회개하며 여호와의 전\", \"기도\", \"말씀 붙잡고\"], \"confidence\": 0.95}"
+    },
+    "7": {
+      "topic_id": 7,
+      "status": "labeled",
+      "prompt_tokens": 54950,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "예수님의 부르심과 믿음",
+        "description": "예수님께서 제자들을 부르시고 물 위를 걸어오시는 기적을 통해 믿음의 본질을 가르치십니다. 베드로의 실패와 회복을 통해 믿음의 성장과 하나님의 주권을 강조합니다.",
+        "evidence_keywords": [
+          "예수",
+          "베드로",
+          "물 위",
+          "믿음",
+          "두려워하지 말라",
+          "사람을 낚는 어부"
+        ],
+        "representative_phrases": [
+          "물 위로 걸어오신 예수",
+          "베드로의 믿음 고백",
+          "사람을 낚는 어부"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 45191,
+        "completion_tokens": 119,
+        "total_tokens": 45310,
+        "prompt_tokens_details": {
+          "cached_tokens": 64,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"예수님의 부르심과 믿음\", \"description\": \"예수님께서 제자들을 부르시고 물 위를 걸어오시는 기적을 통해 믿음의 본질을 가르치십니다. 베드로의 실패와 회복을 통해 믿음의 성장과 하나님의 주권을 강조합니다.\", \"evidence_keywords\": [\"예수\", \"베드로\", \"물 위\", \"믿음\", \"두려워하지 말라\", \"사람을 낚는 어부\"], \"representative_phrases\": [\"물 위로 걸어오신 예수\", \"베드로의 믿음 고백\", \"사람을 낚는 어부\"], \"confidence\": 0.95}"
+    },
+    "8": {
+      "topic_id": 8,
+      "status": "labeled",
+      "prompt_tokens": 57723,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "하나님의 경외와 순종의 삶",
+        "description": "아브라함의 이삭 번제 사건을 통해 하나님 경외와 순종의 중요성을 강조하며, 신앙적 희생과 헌신을 통한 축복의 원리를 설교합니다.",
+        "evidence_keywords": [
+          "아브라함",
+          "이삭",
+          "번제",
+          "경외",
+          "순종",
+          "축복",
+          "하나님",
+          "믿음"
+        ],
+        "representative_phrases": [
+          "아브라함이 이삭을 번제로 드리라 명하심을 순종",
+          "하나님이 아브라함을 시험하시고 경외함을 인정",
+          "하나님의 약속과 인간의 순종이 만나는 지점"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 50332,
+        "completion_tokens": 143,
+        "total_tokens": 50475,
+        "prompt_tokens_details": {
+          "cached_tokens": 64,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"하나님의 경외와 순종의 삶\", \"description\": \"아브라함의 이삭 번제 사건을 통해 하나님 경외와 순종의 중요성을 강조하며, 신앙적 희생과 헌신을 통한 축복의 원리를 설교합니다.\", \"evidence_keywords\": [\"아브라함\", \"이삭\", \"번제\", \"경외\", \"순종\", \"축복\", \"하나님\", \"믿음\"], \"representative_phrases\": [\"아브라함이 이삭을 번제로 드리라 명하심을 순종\", \"하나님이 아브라함을 시험하시고 경외함을 인정\", \"하나님의 약속과 인간의 순종이 만나는 지점\"], \"confidence\": 0.95}"
+    },
+    "9": {
+      "topic_id": 9,
+      "status": "labeled",
+      "prompt_tokens": 52171,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "질투와 하나님과의 관계 회복",
+        "description": "사울의 다윗에 대한 질투가 하나님과의 관계 단절로 이어진 과정을 분석하며, 질투의 불씨를 끄기 위한 하나님과의 관계 회복 방법을 제시합니다.",
+        "evidence_keywords": [
+          "질투",
+          "스올",
+          "하나님 떠나가심",
+          "다윗",
+          "사울"
+        ],
+        "representative_phrases": [
+          "질투는 스올 같이 잔인하다",
+          "하나님께서 사울을 떠나 다윗과 함께 계시므로",
+          "하나님과의 관계 회복이 우선입니다"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 43427,
+        "completion_tokens": 128,
+        "total_tokens": 43555,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"질투와 하나님과의 관계 회복\", \"description\": \"사울의 다윗에 대한 질투가 하나님과의 관계 단절로 이어진 과정을 분석하며, 질투의 불씨를 끄기 위한 하나님과의 관계 회복 방법을 제시합니다.\", \"evidence_keywords\": [\"질투\", \"스올\", \"하나님 떠나가심\", \"다윗\", \"사울\"], \"representative_phrases\": [\"질투는 스올 같이 잔인하다\", \"하나님께서 사울을 떠나 다윗과 함께 계시므로\", \"하나님과의 관계 회복이 우선입니다\"], \"confidence\": 0.95}"
+    },
+    "10": {
+      "topic_id": 10,
+      "status": "labeled",
+      "prompt_tokens": 60187,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "이스라엘 회복과 휴거",
+        "description": "이스라엘의 영적 회복과 이방인의 알리야 및 선교 사명을 통한 하나님의 나라 건설",
+        "evidence_keywords": [
+          "이스라엘",
+          "알리야",
+          "14만 4천",
+          "휴거",
+          "속죄일",
+          "희년",
+          "무화과나무",
+          "큰 나팔",
+          "두 증인",
+          "광야"
+        ],
+        "representative_phrases": [
+          "이스라엘을 축복하는 자 축복받고 저주하는 자 저주받는다",
+          "무화과나무의 비유와 이스라엘 회복",
+          "속죄일 나팔과 휴거",
+          "희년 선포와 알리야 운동"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 50818,
+        "completion_tokens": 142,
+        "total_tokens": 50960,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"이스라엘 회복과 휴거\", \"description\": \"이스라엘의 영적 회복과 이방인의 알리야 및 선교 사명을 통한 하나님의 나라 건설\", \"evidence_keywords\": [\"이스라엘\", \"알리야\", \"14만 4천\", \"휴거\", \"속죄일\", \"희년\", \"무화과나무\", \"큰 나팔\", \"두 증인\", \"광야\"], \"representative_phrases\": [\"이스라엘을 축복하는 자 축복받고 저주하는 자 저주받는다\", \"무화과나무의 비유와 이스라엘 회복\", \"속죄일 나팔과 휴거\", \"희년 선포와 알리야 운동\"], \"confidence\": 0.95}"
+    },
+    "11": {
+      "topic_id": 11,
+      "status": "labeled",
+      "prompt_tokens": 47530,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "하나님의 나라와 언약 신앙",
+        "description": "히브리서 11장을 중심으로 믿음의 선진들이 하나님의 약속의 땅을 바라보며 순종한 사례를 통해 하나님의 나라와 언약 신앙을 강조합니다.",
+        "evidence_keywords": [
+          "하나님의 나라",
+          "언약 신앙",
+          "아브라함",
+          "모세",
+          "히브리서 11장",
+          "약속",
+          "순종"
+        ],
+        "representative_phrases": [
+          "하나님의 나라 바라보기",
+          "언약 신앙의 증거",
+          "히브리서 11장 믿음 장"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 41558,
+        "completion_tokens": 127,
+        "total_tokens": 41685,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"하나님의 나라와 언약 신앙\", \"description\": \"히브리서 11장을 중심으로 믿음의 선진들이 하나님의 약속의 땅을 바라보며 순종한 사례를 통해 하나님의 나라와 언약 신앙을 강조합니다.\", \"evidence_keywords\": [\"하나님의 나라\", \"언약 신앙\", \"아브라함\", \"모세\", \"히브리서 11장\", \"약속\", \"순종\"], \"representative_phrases\": [\"하나님의 나라 바라보기\", \"언약 신앙의 증거\", \"히브리서 11장 믿음 장\"], \"confidence\": 0.95}"
+    },
+    "12": {
+      "topic_id": 12,
+      "status": "labeled",
+      "prompt_tokens": 55609,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "믿음으로 말하는 권세와 성령의 인치심",
+        "description": "예수님의 십자가와 부활을 통해 주어진 믿음의 권세를 강조하며, 성령의 인치심으로 구원의 확실성을 선포하는 설교입니다.",
+        "evidence_keywords": [
+          "믿음으로 말하는 권세",
+          "성령의 인치심",
+          "구원의 확실성",
+          "천국 소망",
+          "예수 그리스도"
+        ],
+        "representative_phrases": [
+          "하나님을 믿으라",
+          "산더러 들리어 바다에 던져지라",
+          "약속된 성령으로 인치심을 받았으니",
+          "나는 하나님의 자녀다"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 47329,
+        "completion_tokens": 130,
+        "total_tokens": 47459,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"믿음으로 말하는 권세와 성령의 인치심\", \"description\": \"예수님의 십자가와 부활을 통해 주어진 믿음의 권세를 강조하며, 성령의 인치심으로 구원의 확실성을 선포하는 설교입니다.\", \"evidence_keywords\": [\"믿음으로 말하는 권세\", \"성령의 인치심\", \"구원의 확실성\", \"천국 소망\", \"예수 그리스도\"], \"representative_phrases\": [\"하나님을 믿으라\", \"산더러 들리어 바다에 던져지라\", \"약속된 성령으로 인치심을 받았으니\", \"나는 하나님의 자녀다\"], \"confidence\": 0.95}"
+    },
+    "13": {
+      "topic_id": 13,
+      "status": "labeled",
+      "prompt_tokens": 56103,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "예수님의 부활과 구원의 확신",
+        "description": "예수님의 부활을 통해 죄 사함과 영생의 확신을 얻고, 이를 삶 속에서 실천하며 전도하는 신앙적 삶을 강조합니다.",
+        "evidence_keywords": [
+          "부활",
+          "생명",
+          "구원",
+          "십자가",
+          "전도",
+          "영생"
+        ],
+        "representative_phrases": [
+          "예수님은 부활이요 생명이니",
+          "전도하려고 살아요",
+          "영원히 죽지 아니하리니"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 49758,
+        "completion_tokens": 107,
+        "total_tokens": 49865,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"예수님의 부활과 구원의 확신\", \"description\": \"예수님의 부활을 통해 죄 사함과 영생의 확신을 얻고, 이를 삶 속에서 실천하며 전도하는 신앙적 삶을 강조합니다.\", \"evidence_keywords\": [\"부활\", \"생명\", \"구원\", \"십자가\", \"전도\", \"영생\"], \"representative_phrases\": [\"예수님은 부활이요 생명이니\", \"전도하려고 살아요\", \"영원히 죽지 아니하리니\"], \"confidence\": 0.95}"
+    },
+    "14": {
+      "topic_id": 14,
+      "status": "labeled",
+      "prompt_tokens": 58741,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "회개와 성령 임재를 통한 영적 각성",
+        "description": "설교들은 회개와 성령의 강력한 임재를 통해 영적 각성을 강조하며, 특히 죄와 타협에서 벗어나 하나님과의 관계를 회복하도록 촉구한다.",
+        "evidence_keywords": [
+          "회개",
+          "성령",
+          "임재",
+          "각성",
+          "죄",
+          "타협"
+        ],
+        "representative_phrases": [
+          "주님의 임재가 경험되어지게 하여 주시옵소서",
+          "성령의 불로 오셔서 세상 헛된 마음 태우소서",
+          "우리들의 견고한 진들을 깨뜨려 주시옵시고"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 48536,
+        "completion_tokens": 131,
+        "total_tokens": 48667,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"회개와 성령 임재를 통한 영적 각성\", \"description\": \"설교들은 회개와 성령의 강력한 임재를 통해 영적 각성을 강조하며, 특히 죄와 타협에서 벗어나 하나님과의 관계를 회복하도록 촉구한다.\", \"evidence_keywords\": [\"회개\", \"성령\", \"임재\", \"각성\", \"죄\", \"타협\"], \"representative_phrases\": [\"주님의 임재가 경험되어지게 하여 주시옵소서\", \"성령의 불로 오셔서 세상 헛된 마음 태우소서\", \"우리들의 견고한 진들을 깨뜨려 주시옵시고\"], \"confidence\": 0.95}"
+    },
+    "15": {
+      "topic_id": 15,
+      "status": "labeled",
+      "prompt_tokens": 56705,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "성령 충만과 말씀 순종을 통한 고난 극복",
+        "description": "성령의 충만함이 고난과 역경 속에서도 흔들리지 않는 믿음의 내공을 제공하며, 말씀의 권능이 영혼을 변화시켜 선한 일을 행할 능력을 갖추게 함을 강조합니다.",
+        "evidence_keywords": [
+          "성령 충만",
+          "말씀 순종",
+          "고난 극복",
+          "내공",
+          "선한 일"
+        ],
+        "representative_phrases": [
+          "성령 충만함이 고난 중에 흔들리지 않는 내공을 제공",
+          "말씀은 마음을 바르게 하고 선한 일을 행할 능력을 갖추게 함",
+          "하나님의 말씀이 구원에 이르는 지혜를 주심"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 46564,
+        "completion_tokens": 137,
+        "total_tokens": 46701,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"성령 충만과 말씀 순종을 통한 고난 극복\", \"description\": \"성령의 충만함이 고난과 역경 속에서도 흔들리지 않는 믿음의 내공을 제공하며, 말씀의 권능이 영혼을 변화시켜 선한 일을 행할 능력을 갖추게 함을 강조합니다.\", \"evidence_keywords\": [\"성령 충만\", \"말씀 순종\", \"고난 극복\", \"내공\", \"선한 일\"], \"representative_phrases\": [\"성령 충만함이 고난 중에 흔들리지 않는 내공을 제공\", \"말씀은 마음을 바르게 하고 선한 일을 행할 능력을 갖추게 함\", \"하나님의 말씀이 구원에 이르는 지혜를 주심\"], \"confidence\": 0.95}"
+    },
+    "16": {
+      "topic_id": 16,
+      "status": "labeled",
+      "prompt_tokens": 59895,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "십일조와 헌물을 통한 하나님과의 관계 회복",
+        "description": "십일조와 헌물을 드리지 않는 것이 저주의 원인임을 강조하며, 온전한 십일조를 통해 하나님의 복을 시험하고 받을 것을 권면하는 설교",
+        "evidence_keywords": [
+          "십일조",
+          "헌물",
+          "저주",
+          "복",
+          "창고",
+          "하늘 문",
+          "황충",
+          "토지 소산",
+          "포도나무 과실"
+        ],
+        "representative_phrases": [
+          "사람이 어찌 하나님의 것을 도적질하겠느냐",
+          "온전한 십일조를 창고에 들여 나의 집에 양식이 있게 하고",
+          "만군의 여호와가 이르노라 내가 너희를 위하여 황충을 금하며"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 53255,
+        "completion_tokens": 155,
+        "total_tokens": 53410,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"십일조와 헌물을 통한 하나님과의 관계 회복\", \"description\": \"십일조와 헌물을 드리지 않는 것이 저주의 원인임을 강조하며, 온전한 십일조를 통해 하나님의 복을 시험하고 받을 것을 권면하는 설교\", \"evidence_keywords\": [\"십일조\", \"헌물\", \"저주\", \"복\", \"창고\", \"하늘 문\", \"황충\", \"토지 소산\", \"포도나무 과실\"], \"representative_phrases\": [\"사람이 어찌 하나님의 것을 도적질하겠느냐\", \"온전한 십일조를 창고에 들여 나의 집에 양식이 있게 하고\", \"만군의 여호와가 이르노라 내가 너희를 위하여 황충을 금하며\"], \"confidence\": 0.95}"
+    },
+    "17": {
+      "topic_id": 17,
+      "status": "labeled",
+      "prompt_tokens": 45096,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "복음의 소망을 통한 고난 극복",
+        "description": "사도 바울은 쇠사슬에 묶인 상황에서도 복음을 담대히 전하며, 이스라엘의 소망인 예수 그리스도를 통해 모든 환경을 초월하는 신앙을 보여줍니다.",
+        "evidence_keywords": [
+          "쇠사슬",
+          "복음을 전함",
+          "이스라엘의 소망",
+          "담대히 거침없이 가르침",
+          "하나님 나라"
+        ],
+        "representative_phrases": [
+          "쇠사슬에 매인 바 되었노라",
+          "아침부터 저녁까지 강론하여",
+          "하나님 나라를 증언하고"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 36100,
+        "completion_tokens": 121,
+        "total_tokens": 36221,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"복음의 소망을 통한 고난 극복\", \"description\": \"사도 바울은 쇠사슬에 묶인 상황에서도 복음을 담대히 전하며, 이스라엘의 소망인 예수 그리스도를 통해 모든 환경을 초월하는 신앙을 보여줍니다.\", \"evidence_keywords\": [\"쇠사슬\", \"복음을 전함\", \"이스라엘의 소망\", \"담대히 거침없이 가르침\", \"하나님 나라\"], \"representative_phrases\": [\"쇠사슬에 매인 바 되었노라\", \"아침부터 저녁까지 강론하여\", \"하나님 나라를 증언하고\"], \"confidence\": 0.95}"
+    },
+    "18": {
+      "topic_id": 18,
+      "status": "labeled",
+      "prompt_tokens": 54822,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "기쁨과 관용을 통한 복음적 공동체",
+        "description": "빌립보서의 핵심 주제인 '항상 기뻐하라'와 '관용'을 중심으로, 사도 바울의 옥중 서신을 통해 그리스도 안에서의 관계적 기쁨과 신본주의적 관용의 실천을 강조합니다. 이는 성도들의 영적 성숙과 공동체 연합을 위한 실천적 지침으로 제시됩니다.",
+        "evidence_keywords": [
+          "주 안에서 항상 기뻐하라",
+          "관용을 모든 사람에게 알게 하라",
+          "주께서 가까우시니라",
+          "하나님과의 관계적 기쁨",
+          "신본주의적 관용",
+          "복음의 능력",
+          "빌립보 교회의 모범"
+        ],
+        "representative_phrases": [
+          "주 안에서 항상 기뻐하라",
+          "염려하지 말고 기도하라",
+          "괴로움에 함께 참여하라",
+          "하나님과의 관계적 기쁨",
+          "신본주의적 관용",
+          "복음의 능력"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 44335,
+        "completion_tokens": 188,
+        "total_tokens": 44523,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"기쁨과 관용을 통한 복음적 공동체\", \"description\": \"빌립보서의 핵심 주제인 '항상 기뻐하라'와 '관용'을 중심으로, 사도 바울의 옥중 서신을 통해 그리스도 안에서의 관계적 기쁨과 신본주의적 관용의 실천을 강조합니다. 이는 성도들의 영적 성숙과 공동체 연합을 위한 실천적 지침으로 제시됩니다.\", \"evidence_keywords\": [\"주 안에서 항상 기뻐하라\", \"관용을 모든 사람에게 알게 하라\", \"주께서 가까우시니라\", \"하나님과의 관계적 기쁨\", \"신본주의적 관용\", \"복음의 능력\", \"빌립보 교회의 모범\"], \"representative_phrases\": [\"주 안에서 항상 기뻐하라\", \"염려하지 말고 기도하라\", \"괴로움에 함께 참여하라\", \"하나님과의 관계적 기쁨\", \"신본주의적 관용\", \"복음의 능력\"], \"confidence\": 0.95}"
+    },
+    "19": {
+      "topic_id": 19,
+      "status": "labeled",
+      "prompt_tokens": 57454,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "기도와 전도의 실천적 신앙",
+        "description": "예수님의 발자취를 따라 기도와 전도를 실천하는 신앙생활을 강조하며, 새벽 기도, 철야 기도, 귀신 쫓음, 병 고침 등 구체적인 실천 방법을 제시합니다.",
+        "evidence_keywords": [
+          "새벽 기도",
+          "철야 기도",
+          "귀신 쫓음",
+          "병 고침",
+          "전도",
+          "기도"
+        ],
+        "representative_phrases": [
+          "새벽 기도",
+          "철야 기도",
+          "귀신 쫓음",
+          "병 고침",
+          "전도"
+        ],
+        "confidence": 0.95
+      },
+      "usage": {
+        "prompt_tokens": 49976,
+        "completion_tokens": 120,
+        "total_tokens": 50096,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"기도와 전도의 실천적 신앙\", \"description\": \"예수님의 발자취를 따라 기도와 전도를 실천하는 신앙생활을 강조하며, 새벽 기도, 철야 기도, 귀신 쫓음, 병 고침 등 구체적인 실천 방법을 제시합니다.\", \"evidence_keywords\": [\"새벽 기도\", \"철야 기도\", \"귀신 쫓음\", \"병 고침\", \"전도\", \"기도\"], \"representative_phrases\": [\"새벽 기도\", \"철야 기도\", \"귀신 쫓음\", \"병 고침\", \"전도\"], \"confidence\": 0.95}"
+    },
+    "20": {
+      "topic_id": 20,
+      "status": "labeled",
+      "prompt_tokens": 45393,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "하나님의 헤세드 사랑과 위기 속 믿음의 승리",
+        "description": "하나님의 풍성한 사랑(헤세드)을 의지해 위기 속에서도 담대히 예배하며, 믿음의 부르짖음과 순종으로 승리를 경험하는 다윗의 영성을 강조합니다.",
+        "evidence_keywords": [
+          "하나님의 풍성한 사랑",
+          "헤세드",
+          "믿음의 부르짖음",
+          "위기 속 예배",
+          "하나님의 날개 그늘",
+          "사망의 문에서 일으키심",
+          "하나님의 방패",
+          "하나님의 기름 부음 받은 자",
+          "하나님의 헤세드 사랑"
+        ],
+        "representative_phrases": [
+          "하나님의 풍성한 사랑을 힘입어 주의 집에 들어가 주를 경외함으로 예배하리이다",
+          "하나님이여 내게 은혜를 베푸소서",
+          "주의 날개 그늘 아래에서 이 재앙들이 지나기까지 피하리이다",
+          "하나님은 나의 반석이시요 요새시요 나를 건지시는 이시요"
+        ],
+        "confidence": 0.98
+      },
+      "usage": {
+        "prompt_tokens": 37995,
+        "completion_tokens": 194,
+        "total_tokens": 38189,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"하나님의 헤세드 사랑과 위기 속 믿음의 승리\", \"description\": \"하나님의 풍성한 사랑(헤세드)을 의지해 위기 속에서도 담대히 예배하며, 믿음의 부르짖음과 순종으로 승리를 경험하는 다윗의 영성을 강조합니다.\", \"evidence_keywords\": [\"하나님의 풍성한 사랑\", \"헤세드\", \"믿음의 부르짖음\", \"위기 속 예배\", \"하나님의 날개 그늘\", \"사망의 문에서 일으키심\", \"하나님의 방패\", \"하나님의 기름 부음 받은 자\", \"하나님의 헤세드 사랑\"], \"representative_phrases\": [\"하나님의 풍성한 사랑을 힘입어 주의 집에 들어가 주를 경외함으로 예배하리이다\", \"하나님이여 내게 은혜를 베푸소서\", \"주의 날개 그늘 아래에서 이 재앙들이 지나기까지 피하리이다\", \"하나님은 나의 반석이시요 요새시요 나를 건지시는 이시요\"], \"confidence\": 0.98}"
+    },
+    "21": {
+      "topic_id": 21,
+      "status": "labeled",
+      "prompt_tokens": 49976,
+      "n_representative_sermons": 5,
+      "label": {
+        "label": "어린 양의 피와 순교를 통한 구원",
+        "description": "요한계시록의 일곱 인, 나팔, 대접 재앙을 통해 하나님의 심판과 구원의 과정을 설명하며, 어린 양의 피로 옷을 씻어 희게 한 자들이 마지막 심판에서 구원받는다는 메시지를 강조합니다.",
+        "evidence_keywords": [
+          "어린 양의 피",
+          "순교",
+          "흰옷 입은 자",
+          "짐승의 표",
+          "14만 4천",
+          "회개",
+          "구원"
+        ],
+        "representative_phrases": [
+          "어린 양의 피로 구속함을 받은 이들",
+          "흰옷 입은 자들이 큰 환난에서 나오는",
+          "짐승의 표를 받지 아니한 자들이 살아서 그리스도로 왕 노릇"
+        ],
+        "confidence": 0.98
+      },
+      "usage": {
+        "prompt_tokens": 41804,
+        "completion_tokens": 152,
+        "total_tokens": 41956,
+        "prompt_tokens_details": {
+          "cached_tokens": 192,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw_content": "{\"label\": \"어린 양의 피와 순교를 통한 구원\", \"description\": \"요한계시록의 일곱 인, 나팔, 대접 재앙을 통해 하나님의 심판과 구원의 과정을 설명하며, 어린 양의 피로 옷을 씻어 희게 한 자들이 마지막 심판에서 구원받는다는 메시지를 강조합니다.\", \"evidence_keywords\": [\"어린 양의 피\", \"순교\", \"흰옷 입은 자\", \"짐승의 표\", \"14만 4천\", \"회개\", \"구원\"], \"representative_phrases\": [\"어린 양의 피로 구속함을 받은 이들\", \"흰옷 입은 자들이 큰 환난에서 나오는\", \"짐승의 표를 받지 아니한 자들이 살아서 그리스도로 왕 노릇\"], \"confidence\": 0.98}"
+    }
+  },
+  "source": {
+    "input": "/projects/AIEC/SermonLense/data/topicModel/corpus/merged/representative_sermons_k22_top5.json",
+    "k": 22,
+    "top_n": 5,
+    "keyword_source": "/projects/AIEC/SermonLense/data/topicModel/corpus/merged/merged_topic_keywords_ctfidf_k22.json"
+  },
+  "api": {
+    "provider": "upstage",
+    "model": "solar-pro3",
+    "url": "https://api.upstage.ai/v1/chat/completions"
+  },
+  "text_source": "full",
+  "tokenizer": {
+    "requested": "auto",
+    "backend": "regex",
+    "model": "gpt-4o-mini"
+  }
+}

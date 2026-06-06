@@ -1,0 +1,178 @@
+{
+  "B-Hw": {
+    "name": "분당우리교회",
+    "sourceDirectory": "분당우리교회_UCBh3Qv-rKu6ZDxEcrio70Hw",
+    "channelSuffix": "Hw"
+  },
+  "B-Rg": {
+    "name": "분당벧엘교회",
+    "sourceDirectory": "분당벧엘교회_UCUudPcmDTnRfOitS73GdORg",
+    "channelSuffix": "Rg"
+  },
+  "D-MA": {
+    "name": "더푸른교회",
+    "sourceDirectory": "더푸른교회_UCyBasF9bs6pM7G1fxKluIMA",
+    "channelSuffix": "MA"
+  },
+  "D-Zg": {
+    "name": "두레교회",
+    "sourceDirectory": "두레김진홍_UCeqd4-XcxdxES08-5Im8oZg",
+    "channelSuffix": "Zg"
+  },
+  "G-kA": {
+    "name": "길튼교회",
+    "sourceDirectory": "길튼교회_UCq8aYAGVTCKkBDos4PnIwkA",
+    "channelSuffix": "kA"
+  },
+  "G-ng": {
+    "name": "꿈의교회",
+    "sourceDirectory": "김학중 목사_꿈의교회 미디어교회_UCaNoaz05HCffa_61Jf_9Qng",
+    "channelSuffix": "ng"
+  },
+  "H-Rg": {
+    "name": "한소망교회",
+    "sourceDirectory": "한소망교회_UCCUiwnIMfFpig9Ui0u4y3Rg",
+    "channelSuffix": "Rg"
+  },
+  "J-7g": {
+    "name": "지구촌교회",
+    "sourceDirectory": "지구촌교회(Global Mission Church)_UCk9nXMCHaKKjEV3waM5327g",
+    "channelSuffix": "7g"
+  },
+  "J-Ig": {
+    "name": "중문교회방송",
+    "sourceDirectory": "중문교회방송_UCxftP1TNjY1lhfT-2-ESCIg",
+    "channelSuffix": "Ig"
+  },
+  "J-Nw": {
+    "name": "중문교회",
+    "sourceDirectory": "장경동 티비교회 Chang Kyung Dong Media Church_UCkoVP0f0H5ZvXkvN8RypKNw",
+    "channelSuffix": "Nw"
+  },
+  "M-qA": {
+    "name": "마가의다락방교회",
+    "sourceDirectory": "마가의다락방교회_UCP2p32Gz20PLa1-5itufwqA",
+    "channelSuffix": "qA"
+  },
+  "M-zA": {
+    "name": "만나교회",
+    "sourceDirectory": "만나 미디어교회_UC0EweXMQqvbiTPYLXY0WFzA",
+    "channelSuffix": "zA"
+  },
+  "O-0A": {
+    "name": "여의도순복음교회",
+    "sourceDirectory": "여의도순복음교회(Yoido Full Gospel Church)_UCa-36V2wccHkTQ0SUziSn0A",
+    "channelSuffix": "0A"
+  },
+  "O-1g": {
+    "name": "유기성 목사 채널",
+    "sourceDirectory": "유기성목사_UCsIAuv29LejTMQJZcCHPb1g",
+    "channelSuffix": "1g"
+  },
+  "O-3w": {
+    "name": "오륜교회",
+    "sourceDirectory": "오륜교회 oryunchurch_UCCATFGVyXoa361VN6lELz3w",
+    "channelSuffix": "3w"
+  },
+  "O-Gg": {
+    "name": "연세중앙교회",
+    "sourceDirectory": "연세중앙교회 Yonsei Central Church_UCxpCUGw1ESBlYWrI57RqoGg",
+    "channelSuffix": "Gg"
+  },
+  "O-Ng": {
+    "name": "영락교회",
+    "sourceDirectory": "영락교회_UCRCxmthIPRHNXxa07_4jaNg",
+    "channelSuffix": "Ng"
+  },
+  "O-Sg": {
+    "name": "온누리교회",
+    "sourceDirectory": "온누리교회_UC-JbwIkZI1f3Bings3VO3Sg",
+    "channelSuffix": "Sg"
+  },
+  "O-lw": {
+    "name": "우리들교회",
+    "sourceDirectory": "우리들교회_UCwA76_SKJYUSlimH_iZJGlw",
+    "channelSuffix": "lw"
+  },
+  "O-mQ": {
+    "name": "우리는교회",
+    "sourceDirectory": "우리는교회_UCSFW3SEUXWvKFzRO0pHT9mQ",
+    "channelSuffix": "mQ"
+  },
+  "P-Cw": {
+    "name": "POD CHURCH(Parade of David)",
+    "sourceDirectory": "POD CHURCH(Parade of David)_UCfyiliqIR3tOvOja_idj7Cw",
+    "channelSuffix": "Cw"
+  },
+  "S-Cg": {
+    "name": "선한목자교회",
+    "sourceDirectory": "선한목자교회_UCjXMsndMsc538jppd4zqnCg",
+    "channelSuffix": "Cg"
+  },
+  "S-EA": {
+    "name": "수지선한목자교회",
+    "sourceDirectory": "수지선한목자교회_UC45l5ZSX5nl-CU9iNpSlkEA",
+    "channelSuffix": "EA"
+  },
+  "S-Og": {
+    "name": "새벽TV 김진홍 목사",
+    "sourceDirectory": "새벽TV 김진홍 목사_UCIfzIm5_pBO6_4J_ezaNAOg",
+    "channelSuffix": "Og"
+  },
+  "S-gA": {
+    "name": "수영로교회",
+    "sourceDirectory": "수영로교회 Sooyoungro Church_UCfJqjGzxG09kzLNDkYJJegA",
+    "channelSuffix": "gA"
+  },
+  "S-hw": {
+    "name": "삼일교회",
+    "sourceDirectory": "SamilChurch삼일교회_UCdUkQwI7Ozo5KnTGMPhzuhw",
+    "channelSuffix": "hw"
+  },
+  "S-jA": {
+    "name": "신길교회",
+    "sourceDirectory": "신길교회Seoul Shingil Waymakers Church_UC4UDZpvJ1ZwRoT-YpaBx2jA",
+    "channelSuffix": "jA"
+  },
+  "T--g": {
+    "name": "THE CROSS CHURCH",
+    "sourceDirectory": "THE CROSS CHURCH_UCRYmArL_KEIS63pDcBTra-g",
+    "channelSuffix": "-g"
+  },
+  "T-Qw": {
+    "name": "더라이프지구촌교회",
+    "sourceDirectory": "The Life 지구촌교회 - 더라이프지구촌교회_UCXqPL_eApnUym_FGY6wmhQw",
+    "channelSuffix": "Qw"
+  },
+  "T-TQ": {
+    "name": "예수이름교회",
+    "sourceDirectory": "TV 0271_UCsIWP5K0yp5IDJrNy6GyiTQ",
+    "channelSuffix": "TQ"
+  },
+  "X-PQ": {
+    "name": "명성교회",
+    "sourceDirectory": "명성교회_UCnCvSPesoxJJgVtWxHuVEPQ",
+    "channelSuffix": "PQ"
+  }
+  ,
+  "G-Jg": {
+    "name": "기쁨의교회",
+    "sourceDirectory": "기쁨의교회_UC0vmi1mhBMndVy0n6kPZOJg",
+    "channelSuffix": "Jg"
+  },
+  "N-eA": {
+    "name": "내수동교회",
+    "sourceDirectory": "내수동교회 Naesoodong Church_UCPsaf5YL6nWN3mPHhPqmaeA",
+    "channelSuffix": "eA"
+  },
+  "O-aQ": {
+    "name": "운정참존교회",
+    "sourceDirectory": "운정참존교회_UCkOkgVhksDPR3vdCjflq2aQ",
+    "channelSuffix": "aQ"
+  },
+  "P-sA": {
+    "name": "포항제일교회",
+    "sourceDirectory": "포항제일교회_UCSwSXmtOZ00R3j-QdXjJWsA",
+    "channelSuffix": "sA"
+  }
+}
