@@ -23,3 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 .nvmrc
+/SermonLens-WEB/matarials
+/SermonLens-WEB/public/tfidf
+/SermonLens-WEB/src/data
