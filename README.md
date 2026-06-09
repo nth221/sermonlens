@@ -63,7 +63,7 @@ npm install
 npm run dev
 
 # 3. 브라우저에서 접속
-# github page를 통해 배포 예정
+https://hail.handong.edu/sermonlens/ 
 ```
 
 ## 👨‍💻 TEAM AIEC (HAIL Lab)
